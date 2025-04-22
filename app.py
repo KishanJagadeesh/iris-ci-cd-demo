@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import numpy as np
 
-st.title("🌸 Iris Species Predictor")
+st.title("🌸 Iris Species Predictor New")
 
 sepal_length = st.slider("Sepal length (cm)", 4.0, 8.0, 5.1)
 sepal_width = st.slider("Sepal width (cm)", 2.0, 4.5, 3.5)
